@@ -1,22 +1,28 @@
 ## 🚀 About Me
-Hi! I'm **Bruno Pilão da Rocha**, a **Back-End Developer** specializing in **automation, API development, and database management**.  
-I have professional experience working with **UiPath**, **IBM solutions**, and building backend services using **Python** and **JavaScript**.  
+Hi! I'm **Bruno Pilão da Rocha**, a **Back-End Developer** specializing in **automation, API development**, and **database management**.  
+I have **professional experience** working with **UiPath**, **IBM solutions**, and building backend services using **Python** and **JavaScript**.  
 
-Passionate about solving complex challenges, integrating systems, and delivering efficient, high-quality software solutions.
+In addition, I have **academic experience** with **Java**, **Spring Boot**, **MySQL**, **Docker**, and **Git** from university projects.  
 
+I am passionate about solving complex challenges, integrating systems, and delivering efficient, high-quality software solutions.
 
 ---
 
 ## 🛠 Tech Stack & Tools
+
+**💼 Professional Experience**
 ![UiPath](https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**🎓 Academic Knowledge**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
