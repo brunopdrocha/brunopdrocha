@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**brunopdrocha/brunopdrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Hi! I'm **Bruno Rocha**, a passionate **Back-End Developer** focused on creating scalable APIs, automation workflows, and database-driven solutions.  
+I enjoy solving complex problems, integrating systems, and delivering high-quality software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📌 Featured Projects
+- **Automated Proposal Processing** – UiPath + Python for OCR, JSON mapping, and validations.  
+- **Task Management API** – Spring Boot REST API with CRUD operations.  
+- **E-commerce Backend** – Product management API integrated with cloud database.
+
+---
+
+## 📊 GitHub Stats
+![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunopdrocha&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopdrocha&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YourLinkedInLink](https://www.linkedin.com/in/brunopilaodarocha/))  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunopdrocha)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunopdrocha@gmail.com)
