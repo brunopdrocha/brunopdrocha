@@ -10,13 +10,10 @@ I am passionate about solving complex challenges, integrating systems, and deliv
 
 ## 🛠 Tech Stack & Tools
 
-**💼 Professional Experience**
 ![UiPath](https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**🎓 Academic Knowledge**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
